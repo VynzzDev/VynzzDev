@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vynzzdev&label=Profile%20views&color=0e75b6&style=flat" alt="vynzzdev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vynzzdev" alt="vynzzdev" /></a> </p>
+- 🌱 I’m currently learning **AI, Cybersecurity, Automation**
+
+- 👨‍💻 All of my projects are available at [https://vynzzdev.my.id](https://vynzzdev.my.id)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vynzzdev&show_icons=true&locale=en&layout=compact" alt="vynzzdev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vynzzdev&show_icons=true&locale=en" alt="vynzzdev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vynzzdev&" alt="vynzzdev" /></p>
