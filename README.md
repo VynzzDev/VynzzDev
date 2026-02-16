@@ -1,7 +1,4 @@
-[![MasterHead](https://dittmptrr27.com/banner.png)](https://vynzzdev.com)
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm VynzzDev
-![Windows Badge](https://img.shields.io/badge/windows-linux-blue?&logo=windows)
-[![Gmail Badge](https://img.shields.io/badge/-vynzzdev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vynzzdev@gmail.com)](mailto:vynzzdev@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/-VynzzDev-grey?style=flat&logo=github&logoColor=white&link=https://github.com/VynzzDev/)](https://www.github.com/VynzzDev/)
 
 <p align='left'>I am a junior is interested in technology especially programming</p>
