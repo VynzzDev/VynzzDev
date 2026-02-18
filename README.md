@@ -23,7 +23,7 @@
 I'm Vynzz, just a random guy who likes Tech. I'm from Indonesia
 
 - 📚 I’m currently learning AI, Cybersecurity, Automation
-- 📃 All of my projects are available at [Here](https://github.com/VynzzDev?tab=repositories)
+- 📃 All of my public projects are available at [Here](https://github.com/VynzzDev?tab=repositories)
 
 ###
 
