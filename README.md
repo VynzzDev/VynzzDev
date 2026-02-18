@@ -20,7 +20,10 @@
 
 ###
 
-<p align="left">I'm Vynzz, just a random guy who likes Tech. I'm from Indonesia<br><br>- 📚 I’m currently learning AI, Cybersecurity, Automation<br>- 📃 All of my projects are available at [Here](https://github.com/VynzzDev?tab=repositories)</p>
+I'm Vynzz, just a random guy who likes Tech. I'm from Indonesia
+
+- 📚 I’m currently learning AI, Cybersecurity, Automation
+- 📃 All of my projects are available at [Here](https://github.com/VynzzDev?tab=repositories)
 
 ###
 
