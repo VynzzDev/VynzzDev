@@ -1,6 +1,19 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.discordapp.net/attachments/1431534928352247918/1475755270973161513/vynzz.jpg?ex=699ea3b2&is=699d5232&hm=b058efcd04a8e771361920f64fcb03d31f17e744b419f20ecf0aba86c6e0d6b1&=&format=webp&width=989&height=989"  />
 </div>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3E7C6B&center=true&width=435&lines=Founder+of+VynzzHost;vynzzhost.com" />
+  </a>
+  <br><br>
+  <a href="https://vynzzhost.com">
+    <img src="https://img.shields.io/badge/VynzzHost-064fb4?style=for-the-badge&logo=icloud&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/fPqWr3Ax98">
+    <img src="https://img.shields.io/badge/VynzzHost-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
 
 ###
 
