@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="#">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3E7C6B&center=true&width=435&lines=Founder+of+VynzzHost;vynzzhost.com" />
   </a>
   <br><br>
