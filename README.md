@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.discordapp.net/attachments/1431534928352247918/1475755270973161513/vynzz.jpg?ex=699ea3b2&is=699d5232&hm=b058efcd04a8e771361920f64fcb03d31f17e744b419f20ecf0aba86c6e0d6b1&=&format=webp&width=989&height=989"  />
+  <img height="150" src="https://files.catbox.moe/injeo4.jpg"  />
 </div>
 
 <p align="center">
